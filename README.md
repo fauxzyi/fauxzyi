@@ -1,4 +1,4 @@
-First year CS student @ University of Nottingham
+Second year CS student @ University of Nottingham
 
 ---
 
